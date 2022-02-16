@@ -1,0 +1,52 @@
+.globalClass {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.class {
+   margin-left: 10px;
+   margin-right: 10px;
+   padding-left: 40px;
+   padding-top: 5px;
+   background-color: bisque;
+}
+
+.buttons {
+   margin-left: 10px;
+   margin-right: 10px;
+   padding-left: 40px;
+   padding-top: 10px;
+   background-color: bisque;
+}
+
+.filterButtons {
+   background-color: #3498db;
+   color: azure;
+   border: 1px blue solid;
+   border-radius: 10%;
+}
+
+.deleteButtons {
+   margin-left: 10px;
+   margin-bottom: 2px;
+   border: 1px #3498db solid;
+   border-radius: 25%;
+   background-color: #b5e63f;
+   color: blue;
+
+}
+
+.affair {
+   color: midnightblue;
+   background-color: lightcyan;
+   border: 1px red dotted;
+   border-radius: 10%;
+}
+
+.priority {
+   margin-left: 10px;
+   background-color: azure;
+   color: orangered;
+   border: 1px red dotted;
+   border-radius: 10%;
+}

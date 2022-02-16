@@ -1,0 +1,37 @@
+.inputClass {
+    margin-top:10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.error {
+    border: 1px solid red;
+    outline: none;
+}
+
+.trueClass {
+    outline: none;
+    background-color: honeydew;
+    color: black;
+}
+
+.spanClass {
+    margin-left: 10px;
+    padding: 5px 7px 5px 7px;
+    border: 2px darkmagenta solid;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+.button {
+    background-color: cadetblue;
+    color: lightcyan;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+
+.textError {
+    margin-left: 10px;
+    color: red;
+    font-size: small;
+}

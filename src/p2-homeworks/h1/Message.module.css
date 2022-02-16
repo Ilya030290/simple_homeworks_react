@@ -1,0 +1,69 @@
+.wrapper {
+    margin: 10px;
+    padding: 30px 30px;
+    background-color: #b5e63f;
+    display: flex;
+    align-items: flex-end;
+}
+.bubble {
+    width: 240px;
+    height: auto;
+    display: block;
+    background: #2b2b2b;
+    border-radius: 6px;
+    box-shadow: 2px 8px 5px #4682B4;
+    position: relative;
+    margin: 0 20px 10px;
+}
+.avatar {
+    margin-right: -5px;
+    margin-top: 25px;
+}
+
+.image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.text {
+    min-width: 160px;
+    max-width: 300px;
+    padding: 8px 60px 10px 10px;
+    word-wrap: break-word;
+}
+
+.name {
+    font-weight: 660;
+    font-size: 12px;
+    margin: 0 0 4px;
+    color: #3498db;
+}
+
+.message{
+    font-size: 12px;
+    margin: 0;
+    color: #ffff;
+}
+
+.timestamp{
+    font-size: 10px;
+    position: absolute;
+    bottom: 9px;
+    right: 11px;
+    text-transform: uppercase; color: #999
+}
+
+.angle {
+    width: 15px;
+    height: 15px;
+    background: radial-gradient(circle at 0 0, rgba(43, 43, 43, 0) 14px, rgba(43, 43, 43, 1) 0);
+    position: absolute;
+    left: -11px;
+    bottom: 0;
+}
+
+
+
+
