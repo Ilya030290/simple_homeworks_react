@@ -1,0 +1,22 @@
+.classForHw6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.editableSpanAndButtons {
+    margin-top: 20px;
+}
+
+.buttons {
+    margin-top: 15px;
+}
+
+.superButtonSave {
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.superButtonRestore {
+    margin-left: 5px;
+}
