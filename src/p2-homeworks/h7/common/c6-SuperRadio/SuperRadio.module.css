@@ -1,0 +1,26 @@
+.superRadioClass {
+    height: 12px;
+    width: 12px;
+    appearance: none;
+    outline: none;
+    border-radius: 50%;
+    background-color: #e6e63f;
+    cursor: pointer;
+}
+
+.superRadioClass:focus {
+    border: 2px solid #351d14;
+}
+
+.superRadioClass:checked {
+    background-color: orangered;
+    border: 2px solid #351d14;
+}
+
+.superRadioClass:hover {
+    border: 2px solid  #3498db;
+}
+
+.labelForRadio {
+    cursor: pointer;
+}

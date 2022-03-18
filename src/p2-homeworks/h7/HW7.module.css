@@ -1,0 +1,9 @@
+.classForHw7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items {
+    margin-top: 20px;
+}

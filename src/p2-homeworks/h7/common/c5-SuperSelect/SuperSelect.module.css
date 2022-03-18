@@ -1,0 +1,23 @@
+.superSelectClass {
+    width: 120px;
+    padding-left: 5px;
+    cursor: pointer;
+    background-color: lightcyan;
+    border: 2px solid #36361d;
+    color: #8f2580;
+}
+
+.optionForSelect {
+    background-color: #fbf1e6;
+    color: #3498db;
+}
+
+.superSelectClass:focus {
+    outline: none;
+    border: 3px solid #b5e63f;
+}
+
+.optionForSelect:checked {
+    background-color: darkmagenta;
+    color:  aliceblue;
+}
