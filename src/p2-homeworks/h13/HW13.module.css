@@ -1,0 +1,17 @@
+.classForHw13 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.request {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.checkbox {
+    margin-bottom: 20px;
+}
