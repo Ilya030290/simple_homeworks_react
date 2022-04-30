@@ -20,7 +20,7 @@ export const Request = () => {
             .catch((error) => {
                 console.log({...error});
                 console.log(error.response ? error.response.data.errorText : error.message);
-                setData('Oops...error, see it in console');
+                setData(error.response.data.errorText);
             });
 
     };
